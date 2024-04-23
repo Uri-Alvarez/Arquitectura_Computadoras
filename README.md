@@ -6,4 +6,4 @@ Alvarez López Uri Yael. CDMX2974
 
 Cibersecurity.
 
-Instructor: 
+Instructor: Sebastian Mejía
